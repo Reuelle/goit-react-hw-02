@@ -7,7 +7,7 @@ import { Section } from "./Section/Section";
 
 
 
-export const App extends Component {
+export class App extends Component {
   constructor() {
     super();
     this.state = {
